@@ -1,8 +1,8 @@
 ---
-Layout post
-title : Test de moi
-subbtitle : petit test pr voir 
-published : true
+layout post
+title: Test de moi
+subbtitle: petit test pr voir 
+published: true
 ---
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper nulla a auctor feugiat. Maecenas sit amet dolor nulla. Donec sollicitudin, orci sed condimentum condimentum, augue leo pretium turpis, at tempor enim sem ac leo. Proin ac consectetur elit. Aenean luctus dui id enim euismod, non commodo eros tincidunt. Maecenas egestas lacus eget interdum molestie. Praesent tempus nulla et maximus eleifend. Praesent et interdum libero, ut pulvinar erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus faucibus imperdiet vestibulum. Cras sagittis dictum finibus. Aliquam consequat turpis vel elit consectetur, eget viverra sapien gravida.
